@@ -1,0 +1,98 @@
+.body{
+    background-color: white;
+    margin: 20%;
+ }
+ .underline{
+     position: relative;
+     background-color: black;
+     padding: 15px 15px;
+ }
+ .mainstyle{
+     position:relative;
+     background-color: transparent;
+     opacity: 0.5;
+     font-weight: bold;
+ }
+ .login-button{
+     background-color: rgb(24, 10, 10);
+     position: relative;
+     color: azure;
+     padding: 10px 40px;
+     border-radius: 10px;
+     left:1200px;
+     top:-400px;
+     font-size:25px;
+ }
+ .login-button:hover{
+     background-color: rgb(79, 43, 43);
+     
+ }
+ .signup-button{
+     background-color: rgb(26, 18, 47);
+     position: relative;
+     color: azure;
+     padding: 10px 40px;
+     border-radius: 10px;
+     left:1200px;
+     top:-400px;
+     font-size:25px;
+ }
+ .signup-button:hover{
+     background-color: rgb(54, 35, 101);
+     
+ }
+ .arrow{
+     position: relative;
+     background-color: rgb(21, 96, 96);
+     padding: 10px 20px;
+     font-size: 40px;
+     border: none;
+     top:-30px;
+     left:1100px;
+ }
+ .content{
+     background-color: black;
+ }
+ .search{
+     position: relative;
+     padding:10px 30px;
+     width:80%;
+     font-size: 20px;
+     background-color: papayawhip;
+     border: none;
+ }
+ .add-button{
+     position: relative;
+     padding:10px 30px;
+     background-color: chartreuse;
+     font-size: 20px;
+     color: rgb(0, 0, 0);
+ }
+ .list{
+     color:thistle;
+     font-size: 50px;
+ }
+ .due{
+     
+     color: darkred;
+     font-size: 20px;
+ }
+ .done{
+     position: relative;
+     padding:10px 10px;
+     background-color: rgb(202, 220, 203);
+     font-size: 20px;
+     color: rgb(0, 0, 0)
+ }
+ .delete{
+     position: relative;
+     padding:10px 10px;
+     background-color: rgb(235, 210, 218);
+     font-size: 20px;
+     color: rgb(0, 0, 0)
+ }
+ .delete:hover{
+     background-color: rgb(221, 11, 11);
+     color: azure;
+ }
+ 
